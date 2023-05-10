@@ -1,17 +1,17 @@
-#Flexbox Pricing Table
+# Flexbox Pricing Table
 
 This project is a solution to a code challenge where I created a pricing table using HTML and CSS Flexbox properties. The result is a beautiful and responsive layout.
 
-##Technologies used: 
+## Technologies used: 
 
 HTML, CSS, Flexbox
 
-##Installation:
+## Installation:
 
 Clone or download the repository
 Open the index.html file in your browser
 
-#Learning Goals
+# Learning Goals
 
 In this project, I used CSS Flexbox to create a pricing table layout. Through this project, I have learned about several Flexbox properties that are commonly used in web development.
 
