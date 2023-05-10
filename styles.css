@@ -1,0 +1,92 @@
+body {
+  font-family: 'Sono', sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(236, 25%, 87%);
+}
+
+.pricing-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 170vh;
+}
+
+.pricing-plan {
+    padding: 2rem;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+}
+
+.basic, .premium {
+    height: 360px;
+    text-align: center;
+    background-color: white;
+    color: hsl(237, 63%, 64%);
+}
+
+.standard {
+    height: 420px;
+    text-align: center;
+    background-color: hsl(237, 63%, 64%);
+    color: white;
+}
+
+.plan-price {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.plan-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.plan-features {
+    list-style: none;
+    padding-left: 0px;
+    margin: 40px 0px;
+    font-size: 1.1rem;    
+}
+
+li {
+    padding: 5px 0px;
+    text-align: left;
+    border-bottom: 1px solid hsl(237, 63%, 64%);
+}
+
+.standard li {
+    border-bottom: 1px solid white;
+}
+
+.plan-button {
+    align-self: center;
+    border-radius: 10px;
+    border: 0px;
+    padding: 10px 0px;
+    margin: 10px 0px;
+    width: 10rem;
+    font-size: 1.2rem;
+    background-color: hsl(237, 63%, 64%);
+    color: white;
+}
+
+.standard .plan-button {
+    background-color: white;
+    color: hsl(237, 63%, 64%);
+}
+
+
+
+
+
+
+/* Hint: What can you do with a media query and flexbox? */
+@media (max-width: 1250px) {
+  
+}
