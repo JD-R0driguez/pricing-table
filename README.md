@@ -25,3 +25,7 @@ Finally, I also used media queries in my project. Media queries allow you to app
 
 Overall, this project was a great way to practice using CSS Flexbox properties and media queries to create a responsive layout.
 
+## Live view at
+
+ https://jd-r0driguez.github.io/pricing-table/
+
